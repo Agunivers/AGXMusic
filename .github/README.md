@@ -123,7 +123,7 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/TechZBots)
+- [Updates Channel](https://t.me/+-VTuSl1PSf8xODk1)
 - [Support Group](https://telegram.me/TechZBots_Support)
 
 ## 🎗 Project assistance

@@ -1,6 +1,6 @@
 <h3>⚠️
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://telegra.ph/file/83b19a6db717869340382.jpg" alt="ICON" width="90%"/></p>
 
 # SiestaXMusic
 

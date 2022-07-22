@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://telegra.ph/file/83b19a6db717869340382.jpg" alt="ICON" width="90%"/></p>
 
-# SiestaXMusic
+# AGXMusic
 
 [SiestaXMusic](https://github.com/TechShreyash/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
